@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "407427751610",
+    "project_id": "bolo992253",
+    "storage_bucket": "bolo992253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407427751610:android:6611243aa6491d11dbec83",
+        "android_client_info": {
+          "package_name": "com.samrudhasolutions.bolo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOxSzEvLWiYrQTgdHKJR8x7gTMUKVUXEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407427751610:android:2ab400367d2ca583dbec83",
+        "android_client_info": {
+          "package_name": "com.samrudhasolutions.uploadvideobolo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOxSzEvLWiYrQTgdHKJR8x7gTMUKVUXEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="MissingConstraints">
+
+        <com.samrudhasolutions.bolo.VisualizerView
+            android:id="@+id/visualizerView"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="71dp"/>
+
+        <TextView
+            android:id="@+id/statusMicTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="Status: "
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/statusTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/statusMicTextView"
+            android:layout_centerHorizontal="true"
+            android:text="Corrected: "
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+
+
+
+
+    </RelativeLayout>
+
+
+    <ImageButton
+        android:id="@+id/ekharttd"
+        android:layout_width="151dp"
+        android:layout_height="153dp"
+        android:background="@drawable/hululu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.661"
+        app:srcCompat="@drawable/buttonofvoice" />
+
+    <TextView
+        android:layout_width="65dp"
+        android:id="@+id/generatingMarks"
+        android:layout_height="25dp"
+        android:layout_marginTop="124dp"
+        android:text="Marks : "
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ekharttd"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageButton
+        android:id="@+id/jghbjri"
+        android:layout_width="57dp"
+        android:layout_height="61dp"
+        android:background="@drawable/circular_button"
+
+        app:layout_constraintBottom_toBottomOf="@+id/ekharttd"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/ekharttd"
+        app:layout_constraintTop_toTopOf="@+id/ekharttd"
+        app:srcCompat="@drawable/historybutton" />
+
+    <ImageButton
+        android:id="@+id/kkhdff"
+        android:layout_width="57dp"
+        android:layout_height="61dp"
+        android:background="@drawable/circular_button"
+        app:layout_constraintBottom_toBottomOf="@+id/ekharttd"
+        app:layout_constraintEnd_toStartOf="@+id/ekharttd"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/ekharttd"
+        app:srcCompat="@drawable/courselogobutton" />
+
+
+    <ImageView
+        android:id="@+id/kksds"
+        android:layout_width="57dp"
+        android:layout_height="61dp"
+        android:background="@drawable/circular_button"
+        app:layout_constraintBottom_toBottomOf="@+id/ekharttd"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.593"
+        app:srcCompat="@drawable/courselogobutton" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
