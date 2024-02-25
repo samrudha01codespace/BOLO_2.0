@@ -1,6 +1,6 @@
-**EduLife - Your Personal English Learning Companion**
+**Bolo - Your Personal English Learning Companion**
 
-Welcome to EduLife! Your ultimate app for enhancing your English speaking skills with real-time grammar correction and instant feedback. Below you'll find everything you need to know to get started with EduLife.
+Welcome to Bolo! Your ultimate app for enhancing your English speaking skills with real-time grammar correction and instant feedback. Below you'll find everything you need to know to get started with EduLife.
 
 **App Screenshots:**
 
@@ -19,7 +19,7 @@ Welcome to EduLife! Your ultimate app for enhancing your English speaking skills
 ## Features:
 
 ### 1. Grammar Corrector:
-EduLife's Grammar Corrector feature is designed to help you improve your English speaking skills by providing real-time corrections as you speak. Here's how it works:
+Bolo's Grammar Corrector feature is designed to help you improve your English speaking skills by providing real-time corrections as you speak. Here's how it works:
 
 - **Real-time Correction:** Speak in English, and EduLife will analyze your sentences for grammatical errors on the fly.
 - **Correction Suggestions:** Receive instant feedback with corrected versions of your statements, highlighting errors and suggesting improvements.
@@ -41,15 +41,15 @@ Track your progress and performance with detailed analytics and reports. Identif
 ## Getting Started:
 
 1. **Download and Install:**
-   - Get started by downloading EduLife from the App Store or Google Play Store.
+   - Get started by downloading Bolo from the given apk file.
    - Install the app on your device and follow the on-screen instructions to set up your account.
 
 2. **Enable Microphone Access:**
-   - Grant EduLife permission to access your device's microphone to enable real-time speech recognition and correction.
+   - Grant Bolo permission to access your device's microphone to enable real-time speech recognition and correction.
 
 3. **Practice Regularly:**
-   - Begin practicing your spoken English with EduLife's Grammar Corrector feature.
-   - Speak naturally, and let EduLife provide instant feedback and corrections to help you improve.
+   - Begin practicing your spoken English with Bolo's Grammar Corrector feature.
+   - Speak naturally, and let Bolo provide instant feedback and corrections to help you improve.
 
 4. **Review Feedback and Improve:**
    - Pay attention to the corrections and suggestions provided by EduLife.
@@ -68,7 +68,7 @@ Track your progress and performance with detailed analytics and reports. Identif
 
 ## Support and Feedback
 
-If you encounter any issues, have questions, or would like to provide feedback, please don't hesitate to contact our support team at samrudhakshirsagar@gmail.com. We're here to help you make the most of your English learning experience with EduLife.
+If you encounter any issues, have questions, or would like to provide feedback, please don't hesitate to contact our support team at samrudhakshirsagar@gmail.com. We're here to help you make the most of your English learning experience with Bolo.
 
 Start your journey towards English fluency today with EduLife - Your Personal English Learning Companion!
 
