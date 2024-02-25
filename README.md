@@ -68,7 +68,7 @@ Track your progress and performance with detailed analytics and reports. Identif
 
 ## Support and Feedback
 
-If you encounter any issues, have questions, or would like to provide feedback, please don't hesitate to contact our support team at support@edulife.com. We're here to help you make the most of your English learning experience with EduLife.
+If you encounter any issues, have questions, or would like to provide feedback, please don't hesitate to contact our support team at samrudhakshirsagar@gmail.com. We're here to help you make the most of your English learning experience with EduLife.
 
 Start your journey towards English fluency today with EduLife - Your Personal English Learning Companion!
 
