@@ -7,9 +7,11 @@ Welcome to EduLife! Your ultimate app for enhancing your English speaking skills
 ![Screenshot_20240225-090218](https://github.com/samrudha01codespace/EducationalApp/assets/144599345/4ca9bafe-018b-4795-b5f9-0d6711532226)
 ![Screenshot_20240225-084148](https://github.com/samrudha01codespace/EducationalApp/assets/144599345/6e69c70c-be88-4e52-8d0e-b7ce20442589)
 
+
 **Video Link** :- https://youtu.be/wlQUOoMpvgE?si=pNxwOIpCidFaZSmr
 
-**App Link** :- 1. https://www.dropbox.com/scl/fi/vb9z4yofn79baejkrtx7v/bolo2.0.apk?rlkey=7zokbdmqm5kdq0fb2exo1xpwn&dl=0
+**App Link** :- 
+                1. https://www.dropbox.com/scl/fi/vb9z4yofn79baejkrtx7v/bolo2.0.apk?rlkey=7zokbdmqm5kdq0fb2exo1xpwn&dl=0
                 
                 2. https://fastupload.io/LslEEkXZ9hFAqY3/file
 
