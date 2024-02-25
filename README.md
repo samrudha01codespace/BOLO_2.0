@@ -65,3 +65,39 @@ Track your progress and performance with detailed analytics and reports. Identif
 If you encounter any issues, have questions, or would like to provide feedback, please don't hesitate to contact our support team at support@edulife.com. We're here to help you make the most of your English learning experience with EduLife.
 
 Start your journey towards English fluency today with EduLife - Your Personal English Learning Companion!
+
+
+
+## Getting start with code
+
+    (dependencies)
+    
+    implementation("androidx.core:core-ktx:1.12.0")
+    implementation("androidx.appcompat:appcompat:1.6.1")
+    implementation("com.google.android.material:material:1.11.0")
+    implementation("androidx.constraintlayout:constraintlayout:2.1.4")
+    implementation ("com.squareup.retrofit2:retrofit:2.9.0")
+
+    implementation ("com.google.android.gms:play-services-vision:10.0.0+")
+
+    implementation("com.squareup.retrofit2:converter-gson:2.9.0")
+    implementation("com.google.firebase:firebase-storage:20.3.0")
+    implementation ("com.google.mlkit:text-recognition:16.0.0")
+
+    testImplementation("junit:junit:4.13.2")
+    androidTestImplementation("androidx.test.ext:junit:1.1.5")
+    androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
+
+
+
+   (IN App>scr>main>com/samrudhasolutions/bolo>utils>constants)
+
+    
+    const val BASE_URL="https://api.openai.com/v1/"
+    const val CHATGPT_MODEL="gpt-3.5-turbo"
+    const val OPENAI_API_KEY="write your api key"  <- write your api key
+    var ANSBEFOREEDIT=""
+    var ANSWERAFTEREDIT=""
+   
+
+   
