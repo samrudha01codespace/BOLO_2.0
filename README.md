@@ -9,11 +9,8 @@ Welcome to EduLife! Your ultimate app for enhancing your English speaking skills
 
 **Video Link** :- https://youtu.be/wlQUOoMpvgE?si=pNxwOIpCidFaZSmr
 
-**App Link** :- https://www.dropbox.com/scl/fi/vb9z4yofn79baejkrtx7v/bolo2.0.apk?rlkey=7zokbdmqm5kdq0fb2exo1xpwn&dl=0
-
-or 
-
-https://fastupload.io/LslEEkXZ9hFAqY3/file
+**App Link** :- 1. https://www.dropbox.com/scl/fi/vb9z4yofn79baejkrtx7v/bolo2.0.apk?rlkey=7zokbdmqm5kdq0fb2exo1xpwn&dl=0
+                2. https://fastupload.io/LslEEkXZ9hFAqY3/file
 
 
 ## Features:
